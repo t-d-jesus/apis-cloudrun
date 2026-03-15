@@ -5,7 +5,7 @@ Este repositório contém uma arquitetura de microserviços implantada no Google
 📁 Estrutura do Projeto
 
 ```text
-meu-projeto-gcp/
+apis-cloudrun/
 ├── api-typescript/    # API de Ingestão (Node.js, Express, Prisma)
 ├── analise-python/    # API de Análise (Python, Flask, Pandas, Gunicorn)
 ├── deploy.sh          # Script de automação de deploy
